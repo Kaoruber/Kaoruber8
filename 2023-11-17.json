@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Ramos",
+  "age": 60,
+  "address": {
+    "street": "Encig Plaza",
+    "city": "Hacnitke",
+    "state": "NV",
+    "zip": "38576"
+  },
+  "contact": {
+    "phone": "(926) 459-3175",
+    "servicePhone": "800497336"
+  },
+  "birthday": "1996-11-06T06:54:30.970Z",
+  "ip": "141.223.2.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Udevol dubbaam cefmina fuf sefvenin fitubol tifji to tupsuzag faho redugwek iruhotu. Zi lefwip deniifi tin ni sos sukciszu likmefzew gib jucgiwbig lo tec. Lello ehmec wim meh pakgudi fuhwu aw galmov joh hofjim isep zesid va pi fedeh dag hatci la.",
+    "bio": "Asaruk kijzaoh buvitate vudre taljovweg et nuvmib cecjo icu watuctez vura new. Mernu fokicres ab fepcajcaf aze befi ji wujol iccep bife lagoj bojkij efhob. Faorape lawa gikofdaz bed ufisi afiperfa ruczupfe demu pi iwuadu joteredig se vos wuvasavef huf."
+  },
+  "apiKey": "ea85b44a737c00a975f8143e61c0ccf6de7339d9b2e025e12ba97c8d9e3997d7",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
