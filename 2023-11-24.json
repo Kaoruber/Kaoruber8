@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Montgomery",
+  "age": 18,
+  "address": {
+    "street": "Ozsi Place",
+    "city": "Zigzospa",
+    "state": "AK",
+    "zip": "56826"
+  },
+  "contact": {
+    "phone": "(708) 597-6476",
+    "servicePhone": "800255237"
+  },
+  "birthday": "1967-08-31T16:50:10.795Z",
+  "ip": "210.133.125.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Tohic dedih ugzoztu oro vib batkod kiupo mer hov ferniwa ri pow. Hamkiehe oz nilibvoh vilul nod le ketmec ferijtog pov opiepzef catasdi dazo cili legke gim zah. Cifju age bi mazuj kar af liawac catka zikis nopub cazvo ruher tugur magrerdad bije.",
+    "bio": "Ipihona baswu heflo hof kobige ma geulcon urtuhkak do judhi vivod mugdufe ger ditarab vuftar nizir kujlu. Re tizisre no minuko okatjo obepojov febempi muohe ez wawpiguk bo ciwkuan. Tistob ag gake ijetud po puca baf kazuc lohkan ji ikpem dotsaba la verlehi leade hurcopko. Puepo wosgur ugute zo guhemab bif na izuuwi zevmu igar esa kubfoawe nal erhov to."
+  },
+  "apiKey": "fcdb5857754b105eaa485271061c878a8d3fd541629cd7a939f42215e1243a73",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
