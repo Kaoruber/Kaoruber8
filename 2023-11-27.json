@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Parker",
+  "age": 60,
+  "address": {
+    "street": "Mihor Mill",
+    "city": "Vuciuv",
+    "state": "IL",
+    "zip": "86087"
+  },
+  "contact": {
+    "phone": "(302) 770-4161",
+    "servicePhone": "800682233"
+  },
+  "birthday": "1990-09-19T05:31:41.662Z",
+  "ip": "89.2.127.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuhina wa carunfa ologav afe ojeaw in hemmat acmi naopawis pa gisa dedtic vuji zam movpu. Vizakuj gi ri japirepif ilitaklo at sugur ko wir me bafcalru ezefedoj ubron woaba job kuctuhe. Rudmive zo umifeh kofgu ecuje fis pa kogibe he riz fek wukgipi lakdiomo fatarbu. Zud marluofa soriw pabocu ilhogow tahbemma aw asbo guvefvid tiro dun fibebe.",
+    "bio": "Ohovafap boigluf zozkal ti ha to to fev luzidize zenihjat gufi kesop. Atzepwu niepe dojenca map busam gelwun licig si izeuzwi iwirufe bosi ki ne te. Numalop ze uwfotiv sus jihho ijiko zowlizdoc zukve ep he wa debtebat fuhlewfec. Ga vibmal eni fadsiv ka wuwidil nijjostal zaccima ada cohinpu elejaes ecuov. Paomsi razlurvu sep lifli vuni ijfedri uj unluzi sifzule nop aliagiru demuf galiji mu munu cugbo. Huba om ipapege ewdinwak su voc bed jihen oveawjav liku juifeuwa fagbi nisomub do pu enbiv."
+  },
+  "apiKey": "25ee4260ad6735ef5979d7df3efb03cdaff940b2b5fb1f42fa72eee7e966fcef",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
