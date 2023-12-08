@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Lambert",
+  "age": 37,
+  "address": {
+    "street": "Udle Key",
+    "city": "Kamlatmol",
+    "state": "GA",
+    "zip": "19940"
+  },
+  "contact": {
+    "phone": "(950) 662-4084",
+    "servicePhone": "800532214"
+  },
+  "birthday": "2000-01-27T00:11:24.056Z",
+  "ip": "14.53.9.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Itilu mu bu po vusug mohutan iraluste ned sabap dalgah won noruvcad kog ijunosar oda. Tomwah kadredso ceseb niljac dintaguw ojnurpoh gukonjuj lewekna zoopu jo gercom likvo. Sohzose nuisiz mur dunju bak bansoje laduv pikasol lolcurepu fomina biwmija buppetla amaodikov ihamopu. Pihsove gewi cugder mi wanuc foj apuzopiv cetna ca vug kirac edwor uridehwa.",
+    "bio": "Lu arufe pajon ewmup su sapifu cudpucis tagake padala to uz rim hi. Akfa ep ezeedo kolig zinkim nettomvel bu uvu doghi ris podvusof kuvsul vocikdas ukcus rijwekale cap. Bet conilubi ameuj kuconhoz ja kozeg vup mipguke moci jo logi biipioja."
+  },
+  "apiKey": "cfb9fa092c8c86903d11d7076316da46ba9df678c26965f69f12a21d93346644",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
