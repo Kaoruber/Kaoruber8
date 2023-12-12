@@ -1,0 +1,26 @@
+{
+  "name": "Lina Andrews",
+  "age": 45,
+  "address": {
+    "street": "Ilikem Manor",
+    "city": "Gougenol",
+    "state": "NE",
+    "zip": "10125"
+  },
+  "contact": {
+    "phone": "(549) 736-6828",
+    "servicePhone": "800956918"
+  },
+  "birthday": "1982-05-27T11:58:36.684Z",
+  "ip": "94.68.196.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Puv usawoji fuw muhizo it ta wawkud piiva ela ka sijwebkec apzeb kom umilap. Kuv lipontic ka taduipa ofkew dosu re tiugjer nocik ugi oj ze om fok la inu if. Suwoeta buhnujo udala upuzil fujidcu nevpi tab wuzohdi kivlormo be heomka opu duciki uzocez.",
+    "bio": "Gahis res begu nilelkoc vuw tidoit rupli senes cip nuekiom has ru uz. Fulpuk ko jer vil mihri ka zedfo kuslu kuhunov pueg ilazuat jo sebinnez. Sumon duni uzed uhe sol ek jo ecebucine upe nohuduzi vi pu uza kun zifape huefa. Pep el nauh wohimal gecunro dis finigi mihvil telij izhohha vassohoma fa noigugi hemi daskuba mazamsen vowru la."
+  },
+  "apiKey": "a1995d9b26b56fe74f0d685c1370a155139057bb13e99b0eedff6dabef38adf7",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
