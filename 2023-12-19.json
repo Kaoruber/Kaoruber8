@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Sanchez",
+  "age": 30,
+  "address": {
+    "street": "Dopij Turnpike",
+    "city": "Labkiefi",
+    "state": "UT",
+    "zip": "55469"
+  },
+  "contact": {
+    "phone": "(674) 878-6687",
+    "servicePhone": "800462476"
+  },
+  "birthday": "1971-09-08T14:32:31.943Z",
+  "ip": "103.118.38.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohemegam tuzuplu kadlejom ujuacte ko zum zu wice jow maaka zuz cicrozud puf etosu sok. Kifma kercus vaned lusdeci atizaju voeh vidboac ewojid pueji cogju vig gepu tas oguipga dagup hu efenof zekuk. Hem ni bepom geas opsud tuzru wuzocak buutaz som muvfa bushoam ruporra uronu gas cidaj lul veupahu.",
+    "bio": "Idazi fa hol diwuca fitusu luwiju osse ro towehaj halgiaj nuh adcaola jet. Omko kiba rugul zogeb zofahelud fosso jiutha eh ep paplazuh uho vujwen huf. Suwe of cuolu cu piwegu ji co siscudwus uc zaepdi azeahe nowediir ki. Vuboz cudis pu oz cap dunisnil ba soratroz faw diw nitmatpu isreeke."
+  },
+  "apiKey": "61b1145c9015a4f49c6e23d4a5f63a229defdaef56e87c504f20b6f28468e842",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
