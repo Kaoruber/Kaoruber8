@@ -1,0 +1,26 @@
+{
+  "name": "Della Adkins",
+  "age": 34,
+  "address": {
+    "street": "Baah Park",
+    "city": "Runohem",
+    "state": "DE",
+    "zip": "62613"
+  },
+  "contact": {
+    "phone": "(509) 815-8666",
+    "servicePhone": "800259944"
+  },
+  "birthday": "1999-06-24T18:18:08.319Z",
+  "ip": "191.79.164.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Hos cotwosi lut kag baffuw oka dawhih olo da awewutu cedob wulih ewalo. Kagnokoz vaz mo ji edeve eca fupeto pe tieju fa wus vi maz we leswi. Mo fahsu waonosur hoeho zipulfi ita cezom vegcujo fisfom emrevo dealo fezsujnir lotbof butip.",
+    "bio": "Hi wuhud vekkajiho fah nufmah rufas po cu nip iconouci wichunu ewtonfu jijoepe ulo. Wub dahtacoc fil koj ganmico balnuni co lelre igtamas dokedo jiticib gubuaz zeer bicagi owonu ihpum bun fejsim. Lobcehuf jodif jivonger kaddu sacsu je mit hisarki ipgechoj ji ucireh gifo ki tokijbi izewir cinmotgom. Jevfuraf gago cigtuewe vu lopabjo tezvokana bunebir eto we uw op iwbinuv so dowgan kinif nal bo ivu."
+  },
+  "apiKey": "57b26141547424beb008e2bd5e80297025cabf8d30e13c81dd05c80033104caa",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
