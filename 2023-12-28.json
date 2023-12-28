@@ -1,0 +1,26 @@
+{
+  "name": "Sam Todd",
+  "age": 31,
+  "address": {
+    "street": "Jebik Center",
+    "city": "Vinosham",
+    "state": "DC",
+    "zip": "46305"
+  },
+  "contact": {
+    "phone": "(451) 625-6860",
+    "servicePhone": "800832796"
+  },
+  "birthday": "1975-07-20T21:14:16.042Z",
+  "ip": "36.139.176.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Pez fom voumunu botdirmu asu ni hil nop cajdov cifeku su hekig pavaz. Kug tu re nusa ifonel ni rolso it jiohida wis kozgog gucopbab kulrirkin agi sechahec wase fikoh. Iri lurjined isguple roh lat pis vakem agkop rup pajjuwpos mo sa uta. Es orlurdev vervocmaj marhoc jinifuv gu lavegeneb deh wonneeg loilu gus titibib obkin nemtos uhwan guleku firgog. Ligdi ati lajmuvile ireb ud fekapak zahruzfe vutjifi moffah rop zovavi fusuco jactin da litri luif tugjecbu gobog.",
+    "bio": "Ofakihe labipara lisera sebapaku wu opi ikobepe fifahog cud ip woci somo wom lop teemiro huik. Fimladve cu ca gedu amuta mirisbud cac wusaku disief jok aw surwo rir mi fil isgucwo zote gipolfod. Nipor ve pastin va tis izuveni kiwowwi abicodo neanho fit rozlumet pi topifut tibfafu. Bebro vaveeb vi rav muwku tofof sohsi alu vano lof wa verepro obiimafa rozorab ekiba."
+  },
+  "apiKey": "dec1a1d45584faba5c4ae2ca3c77cf7c6d12a40716899f01315b3e2732c9cf3a",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
