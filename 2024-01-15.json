@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Sandoval",
+  "age": 43,
+  "address": {
+    "street": "Ruka Grove",
+    "city": "Zorsoslab",
+    "state": "ND",
+    "zip": "20187"
+  },
+  "contact": {
+    "phone": "(229) 743-4350",
+    "servicePhone": "800456824"
+  },
+  "birthday": "2000-11-04T13:53:06.594Z",
+  "ip": "211.162.209.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Dom ase ziziwim nevina vutubak mib veriwe wivjof nonfu seakce sati tujozosib zihu rag fa juw pizkik. Foino ta uz fiej voset zu ina leg bisper op foj molmo agaamo cewodaz. Zi loliszi ruju zufkum tac peflotaj ah ukoheseno hazko buhwi ucepodco baigi es ji atwajdid pi. Ote limuti limomgeh nogarum si mi edugel wike jonguoda ripzim vaigwuw cas benuzewos jorde ne jekif wugo ed. Wulmesper nabhihsot rum zati ciranerak lezwicbuw gecag mumluw ew kajiobo livdaeg hi tiz. Jipoja he ale enuato kediwna jalag tetuz limulud cuszazwet ze aharip rifuod zomurova.",
+    "bio": "Keez cer juw ob toc jop nohejo li nidewuw rine kenujne pikrab ipo jojotli ibo lur. Suemium aluditvi ziavzas su rivlezaw uz duonuede tircuw menmohuh soh docifvu uc gi. Cus enivedib majno muos ze jabno sok negtahin beume neg uli gi nufcoipe ge eremogdo jubepi kelu hirosmah."
+  },
+  "apiKey": "863c45abfedca1e7e15713b8c7b553d551d1ee250b26639779c0f3eb1402fb65",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
