@@ -1,0 +1,26 @@
+{
+  "name": "Carrie Boone",
+  "age": 46,
+  "address": {
+    "street": "Opco Pike",
+    "city": "Jadera",
+    "state": "IL",
+    "zip": "58856"
+  },
+  "contact": {
+    "phone": "(824) 450-5731",
+    "servicePhone": "800313628"
+  },
+  "birthday": "1995-04-05T01:38:44.316Z",
+  "ip": "155.86.120.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Katibek ga li dojdad powot hahadsu ma raj le wuor re wek ocudo en fohuwzud. Jozuca mocet setoivu efamabi vatemawe jusicjig la fimudut wu uca defjis novepocal kudejpi. Uhdi mol huw vep pu zatog rohbetru pacsi dur jigah wafawug hipa sejha opezuom bondawa bimneod. Gav vasvim ajzilo sejobon neonu ni ge be kefjej zikesopo piahiupo igu cugce geokzer zib za.",
+    "bio": "Taomepa ap ri pacun vos baem le penom fotazu souco ahogu petfotcoc kikbaj. Bomuhi zeh fihijizi gelgasiho ranne kot umonre mutazi lud ugelut ze dogafi ulowiros jo sef su. Ebkatez bufu butevhej wuziji nifgek miwjoev tejcob weuce uzihu senracwu ihecug remfenule ro punus aticor ute rujoduf jidlife."
+  },
+  "apiKey": "92199c46c525443d1b07568b0ef12adc5ca6c33a7f3b02a6477f9ba904d3ee77",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
