@@ -1,0 +1,26 @@
+{
+  "name": "Hallie Richards",
+  "age": 27,
+  "address": {
+    "street": "Gijte Drive",
+    "city": "Kahutce",
+    "state": "IA",
+    "zip": "67910"
+  },
+  "contact": {
+    "phone": "(223) 939-5369",
+    "servicePhone": "800476873"
+  },
+  "birthday": "2000-04-09T05:54:00.449Z",
+  "ip": "1.147.24.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Fagopepis kum gudbow kemucwif pubfobga objigik kiv gujpok rakin fo pen memaje gipseb vijkewcok. Afete ika divwize aguwew hale we esge dep le webramso nictahbu sav muskeh dopi bomewa ofaogjo aku tiwmeg. Co nimko wawehiere uraro woje judmeugo rias kipozrih ige zumzu fuma vor coh po ca okige.",
+    "bio": "Mido onuku rajbudad lu jap dikji giptewo larooz nafo gikjuvag fitvednu ovuzi pibzul roibiise elulusiv. Nawowjug la hadem zaajiah wa su lube orulahco ifu unko fi muncam pudse ut ruzof ecaje wojev. Cop sume up souceage edife vir gorureki epvikraf fijmaaho ucihunul firap va."
+  },
+  "apiKey": "ab66cdfeb84c92956eba41bbdf075512365c5f01dbce4da39dd707858ba5025e",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
