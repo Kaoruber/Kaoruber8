@@ -1,0 +1,26 @@
+{
+  "name": "Lily Johnston",
+  "age": 64,
+  "address": {
+    "street": "Kucub River",
+    "city": "Pisozdu",
+    "state": "TX",
+    "zip": "43604"
+  },
+  "contact": {
+    "phone": "(431) 338-7902",
+    "servicePhone": "800995798"
+  },
+  "birthday": "1960-11-09T22:21:50.440Z",
+  "ip": "67.78.93.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Zigup diiw itugukke uco awicalob ruvlihje suhzanfef gile paudu fuhzile joh tetemu hibim piscudo nopjipani jo zuhem. Vev babo nawsade pu segit guzzoj ijeazuw aw zini icnew judeg kiv ger desi. Az su voutere ogwouk hu enez isgu co caos uha mafi wohido ubsidga ow el.",
+    "bio": "Bilepo pugub mu lot ju nacu anhik mus idwog gufjaskus jokud loviwud oz. Nuwwa olupopdes biwe lef pu viwfigpek ure funnago izoaje wevru ep avohe tido hihfujo. Moccobo li tegoava zaw abo roami jojluok niwopir uwidecag zuiso gapome jisa mutulfe."
+  },
+  "apiKey": "84d53da957660fcda8f2bb28ff0069468db2377e0b76c566270f3d1091f4fb51",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
