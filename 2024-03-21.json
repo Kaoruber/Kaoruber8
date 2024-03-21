@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Perez",
+  "age": 40,
+  "address": {
+    "street": "Goob Way",
+    "city": "Upucfib",
+    "state": "MD",
+    "zip": "00883"
+  },
+  "contact": {
+    "phone": "(809) 988-1515",
+    "servicePhone": "800252578"
+  },
+  "birthday": "1997-04-27T08:51:01.434Z",
+  "ip": "113.167.124.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Silunno jebro wu ti mooval ha meerep vumobe lu nes hegtuz jolvada ru goen egemoka niviw. Iwa copob siasesid nosdisib alage tafekaos tu rafat umonehta sid genigfi nes ofpaneg nu. Fadom miaceko ij uju pagais dezzeztek gu ji kolsiw ivmewel zokasre nouho. Ceh fascejca mozfa hibuhow duwnilwi ta kuel lowzinap bowzefa meuliwa ogevit taci vu usu.",
+    "bio": "Wopadpat une di rulozav bujez hivoozi be laprewja ka jocuhateh gopujek ziduwiwoz dukihhaf idase. Nohif lejwuk eti ba fezuw ko wetnik nojuj gij ved aj sorron ehvat mu. Ziiv cipukseh ca bigdic mujrasu da ed obe enuwini gemun as cag. Ehawa guk nab zacahop hos ajro vune pinol ev dekeake teje dehgeri odazis vi he. Dap etgi zikekzen tiralic biw temja ele mejmo ze seov tocu iwo vir vori jefdoum camvuc sacagjas. Vugi ip licso al newuk anefa ebiloku jocic jonojubu te gejujme covuna bamra wikhomzo monge ag sa."
+  },
+  "apiKey": "ac54f4052f1aa16d51777a1d76eefd7adf73f04db729b462f8e42a5c8796f8e6",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
