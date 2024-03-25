@@ -1,0 +1,26 @@
+{
+  "name": "Winifred Harris",
+  "age": 52,
+  "address": {
+    "street": "Ludu Lane",
+    "city": "Langatit",
+    "state": "SC",
+    "zip": "92135"
+  },
+  "contact": {
+    "phone": "(659) 605-2580",
+    "servicePhone": "800973291"
+  },
+  "birthday": "1965-05-18T07:38:50.953Z",
+  "ip": "9.144.27.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Garaj eze gousoto gumsu ub idinufwu cewlonij dogmi wa jol igluc gi vu ethe udnidzer. Jenag eb nunudoze rowlurmoz mo mo jeri mefe butwabum tenboc ogu ruvgas zihano zomzehro ganifriv. Runeg gen vu wawbu webazlu ivlo geza rida migpumi nehansut sehri devfunod zu nujacacar cefu vonaeg vipcutce. Cidvu joap wamjif zaneti oseiw la pa kahgif porriwah ukadied oso bezo palpulez mutheisa reeja. Nuh ovo lor vuus mat funanad tawzuzi ibrin vuh cowadwi wu cear eneruv dema deowoom ze.",
+    "bio": "Wase ezoifopal dofuil joriwreg wavathec weipuka on megac wirkol codaj awajobtu hedalciv. Ora nadwiv ravaloreg ni ila it fi nibor hudib vuziwec likmaceh diczo lo hara nepuknuf fivbu ajpeje. Iwsituz sogam sohkoaf kizijmij kajokwok kowo porimas mueb luti laut as hemus. Re ujamotat es pejpo rapbojiv bubam kesu eglo zirsa po efi canilika govu afnirop ateago."
+  },
+  "apiKey": "5ad572fe5310288f4d48f168ceae532d58d3f88477161fa18da0fea6e002cfc9",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
